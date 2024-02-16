@@ -1,4 +1,4 @@
-### Hi there <img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" width="50">
+### Hi there "<img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" width="50">"
 
 ![Alt Text](https://i.pinimg.com/originals/44/5e/e1/445ee117c29f7b1c30ddb1a29e48c15b.gif)
 
