@@ -6,7 +6,7 @@
 > hope you would like this projects and do experiment on your own 👩‍🚀
 
 
-- 🌱 I’m currently learning mern <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*a-HMmQFQNC76zCZBZfFgJg.gif" width="50">
+- 🌱 I’m currently learning mern stack <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*a-HMmQFQNC76zCZBZfFgJg.gif" width="50">
 - 👷‍♂️ we will be building fun projects too stay connected ✅
 <!--
 **prab002/prab002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
