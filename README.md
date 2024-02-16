@@ -1,6 +1,6 @@
 ### Hi there 👋
+![Alt Text](https://i.pinimg.com/originals/db/ab/2f/dbab2f3be06e768e77a85f175e577955.gif)
 
-[!Animated(https://i.pinimg.com/originals/db/ab/2f/dbab2f3be06e768e77a85f175e577955.gif)]
 <!--
 **prab002/prab002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
