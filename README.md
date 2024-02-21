@@ -2,8 +2,7 @@
 
 ![Alt Text](https://i.pinimg.com/originals/44/5e/e1/445ee117c29f7b1c30ddb1a29e48c15b.gif)
 
-> hi this git is all about exploring 💥 new things and playing with cool techs 🌐
-> hope you would like this projects and do experiment on your own 👩‍🚀
+
 
 
 - 🌱 I’m currently learning mern stack <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*a-HMmQFQNC76zCZBZfFgJg.gif" width="50">
@@ -12,6 +11,8 @@
 **prab002/prab002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+> hi this git is all about exploring 💥 new things and playing with cool techs 🌐
+> hope you would like this projects and do experiment on your own 👩‍🚀
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
