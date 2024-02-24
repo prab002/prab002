@@ -1,14 +1,14 @@
 <h1 align="center">About Me</h1>
 
-<h2>🚀 Hi there! I'm [Your Name], a passionate MERN (MongoDB, Express.js, React, Node.js) stack developer on a journey to create seamless and dynamic web applications.</h2>
+<h3>🚀 Hi there! I'm Prabhanjan Sharma, a passionate MERN (MongoDB, Express.js, React, Node.js) stack developer on a journey to create seamless and dynamic web applications.</h3>
 
-<h2>💻 With a solid foundation in backend development using Node.js and Express.js, I craft robust APIs and server-side functionalities. My expertise extends to MongoDB, where I design scalable and efficient database solutions to power the backend of my applications.</h2>
+<h3>💻 With a solid foundation in backend development using Node.js and Express.js, I craft robust APIs and server-side functionalities. My expertise extends to MongoDB, where I design scalable and efficient database solutions to power the backend of my applications.</h3>
 
-<h2>🌐 On the frontend, I leverage the power of React to build interactive and user-friendly interfaces. I'm dedicated to creating responsive and engaging web experiences that leave a lasting impression.</h2>
+<h3>🌐 On the frontend, I leverage the power of React to build interactive and user-friendly interfaces. I'm dedicated to creating responsive and engaging web experiences that leave a lasting impression.</h3>
 
-<h2>🛠️ In the ever-evolving world of technology, I thrive on staying up-to-date with the latest trends and incorporating best practices into my development process. Problem-solving is my forte, and I enjoy the challenge of turning ideas into functional, feature-rich applications.</h2>
+<h3>🛠️ In the ever-evolving world of technology, I thrive on staying up-to-date with the latest trends and incorporating best practices into my development process. Problem-solving is my forte, and I enjoy the challenge of turning ideas into functional, feature-rich applications.</h3>
 
-<h2>👨‍💻 Let's collaborate and build something amazing together! Feel free to connect with me for any exciting web development projects or opportunities.</h2>
+<h3>👨‍💻 Let's collaborate and build something amazing together! Feel free to connect with me for any exciting web development projects or opportunities.</h3>
 
 
 
