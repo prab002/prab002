@@ -1,4 +1,17 @@
-<h1 align="center">Hi 👋, I'm Prabhanjan sharma</h1>
+<h1 align="center">About Me</h1>
+
+<h2>🚀 Hi there! I'm [Your Name], a passionate MERN (MongoDB, Express.js, React, Node.js) stack developer on a journey to create seamless and dynamic web applications.</h2>
+
+<h2>💻 With a solid foundation in backend development using Node.js and Express.js, I craft robust APIs and server-side functionalities. My expertise extends to MongoDB, where I design scalable and efficient database solutions to power the backend of my applications.</h2>
+
+<h2>🌐 On the frontend, I leverage the power of React to build interactive and user-friendly interfaces. I'm dedicated to creating responsive and engaging web experiences that leave a lasting impression.</h2>
+
+<h2>🛠️ In the ever-evolving world of technology, I thrive on staying up-to-date with the latest trends and incorporating best practices into my development process. Problem-solving is my forte, and I enjoy the challenge of turning ideas into functional, feature-rich applications.</h2>
+
+<h2>👨‍💻 Let's collaborate and build something amazing together! Feel free to connect with me for any exciting web development projects or opportunities.</h2>
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prab002&label=Profile%20views&color=0e75b6&style=flat" alt="prab002" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prab002" alt="prab002" /></a> </p>
