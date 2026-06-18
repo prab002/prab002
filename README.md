@@ -41,14 +41,6 @@ prabhanjan@dev:~$ echo $MINDSET
 
 ---
 
-### 🛰️ Featured Drop
-
-> **[🧭 Disk Analyzer](https://github.com/prab002/disk-analyzer-mac)** — native **macOS** disk-usage visualizer
-> Your whole filesystem as a size-proportional **treemap** → reclaim space safely.
-> `Tauri (Rust)` · `React + TS` · parallel scan with `rayon` · bounded memory · automated universal **DMG** pipeline.
-
----
-
 ### ⚙️ Arsenal
 
 <p>
